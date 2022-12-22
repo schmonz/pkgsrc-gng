@@ -1,0 +1,9 @@
+@comment $NetBSD$
+bin/gng
+bin/gw
+share/gng/common.sh
+share/gng/gradle/README.md
+share/gng/gradle/gng.cfg
+share/gng/gradle/gradlew
+share/gng/gradle/gradlew.bat
+share/gng/gradle/wrapper/gradle-wrapper.jar

@@ -1,4 +1,4 @@
-$NetBSD$
+$NetBSD: patch-bin_gng,v 1.1 2022/12/27 16:14:03 schmonz Exp $
 
 Use pkgsrc paths.
 

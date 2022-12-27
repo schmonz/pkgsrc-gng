@@ -1,4 +1,4 @@
-# $NetBSD$
+# $NetBSD: Makefile,v 1.1 2022/12/27 16:14:03 schmonz Exp $
 
 DISTNAME=		gng-1.0.3
 CATEGORIES=		devel
